@@ -5,3 +5,4 @@ SysInfo/make
 SysInfo/SysInfo.dll
 Utility/*/
 Utility/SysInfo.sublime-workspace
+.gitignore
